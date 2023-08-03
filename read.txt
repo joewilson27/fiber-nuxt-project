@@ -1,0 +1,4 @@
+https://www.turing.com/kb/guide-to-installing-and-creating-nuxt-app
+
+install @axios
+https://www.smashingmagazine.com/2020/05/getting-started-axios-nuxt/
